@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="es">
+  
+  <head>
+    <meta charset="UTF-8">
+    <title>videos de youtube</title>
+    </head>
+    <body>
+    <h1>si queres ver un video de <em>youtube</em> entra al enlace</h1>
+   <a href="https://youtu.be/4wb9j0nlN-c?si=JKJVagYZy4mpM7lu">youtube</a>
+   <img src="https://en.followersnet.com/wp-content/uploads/2019/02/YouTube.png" width="300" height="200">
+  </body>
+</html>
